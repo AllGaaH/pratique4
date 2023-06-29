@@ -28,7 +28,7 @@
  
   ![Snake animation](https://github.com/nagato94/nagato94/blob/output/github-contribution-grid-snake.svg)
 
-</div>">
+</div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagato94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagato94&layout=compact&langs_count=6&theme=tokyonight"/>
 

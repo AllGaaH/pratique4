@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/nagato94">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagato94&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagato94&show_icons=true&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagato94&layout=compact&langs_count=6&theme=chartreuse-dark"/>
 
 </div>
